@@ -5,7 +5,10 @@ Este es un proyecto colaborativo desarrollado en **Java** diseñado para simular
 ---
 
 ## 👥 Integrantes del Equipo
-* *Por definir (Espacio para los nombres de los 4 integrantes)*
+* Jonathan Daniel Reyes Gordillo
+* Michael Castro
+* Estefania Lozada Sotelo
+* Elisa Martínez
 
 ---
 
@@ -39,7 +42,7 @@ src/
    ```bash
    git clone https://github.com/DanielRousse/Cafeter-a_JAVA.git
    ```
-2. Compila y ejecuta el proyecto en tu entorno Java preferido (IDE como IntelliJ, Eclipse o VS Code) o desde la terminal:
+2. Compila y ejecuta el proyecto en tu entorno Java preferido (IDE como IntelliJ) o desde la terminal:
    ```bash
    javac src/*.java
    java -cp src Main
