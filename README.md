@@ -23,7 +23,7 @@ El sistema permite administrar el menú general de la cafetería y gestionar ór
 ---
 
 ## 🛠️ Estructura del Código
-Todos los archivos fuente se ubican dentro de la carpeta `src/` bajo la siguiente estructura sugerida:
+Todos los archivos fuente se ubican dentro de la carpeta `src/` bajo la siguiente estructura final:
 ```text
 src/
 ├── Producto.java      # Clase base abstracta para los productos.
