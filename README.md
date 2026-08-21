@@ -8,7 +8,7 @@ Este es un proyecto colaborativo desarrollado en **Java** diseñado para simular
 * Jonathan Daniel Reyes Gordillo
 * Michael Castro
 * Estefania Lozada Sotelo
-* Elisa Martínez
+* Elisa Méndez
 
 ---
 
